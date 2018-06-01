@@ -1,15 +1,13 @@
 {
   "name": "doge",
-  "version": "1.0.0",
+  "description": "nada",
+  "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "author": "nakan",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
-  },
-  "devDependencies": {},
-  "description": "nada"
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
 }
